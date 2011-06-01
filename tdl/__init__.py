@@ -1,4 +1,4 @@
-import tdl.object
+import tdl.digitalobject
 
 def main():
     pass
